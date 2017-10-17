@@ -1,0 +1,37 @@
+Debugging
+Full list
+https://docs.python.org/2/library/pdb.html
+
+Debugging functions
+
+step into
+s
+
+list
+l
+
+m over
+n
+
+quit
+q
+
+continue
+c
+
+run until return
+r
+
+arguments
+a
+
+clear
+cl
+
+create breakpoint
+b <line number>
+
+temporary breakpoint
+tbreak
+
+condition <number>
